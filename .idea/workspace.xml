@@ -74,8 +74,12 @@
       <file leaf-file-name="DepVos.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/crm/test/DepVos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="168">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -892,7 +896,7 @@
       <workItem from="1526387001848" duration="781000" />
       <workItem from="1526629652964" duration="1513000" />
       <workItem from="1526631828505" duration="28000" />
-      <workItem from="1526631877177" duration="3515000" />
+      <workItem from="1526631877177" duration="3793000" />
     </task>
     <task id="LOCAL-00001" summary="idea整合测试git">
       <created>1526633285352</created>
@@ -950,11 +954,25 @@
       <option name="project" value="LOCAL" />
       <updated>1526642578933</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="idea整合测试git">
+      <created>1526642744239</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1526642744239</updated>
+    </task>
+    <task id="LOCAL-00010" summary="idea整合测试git">
+      <created>1526642805515</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1526642805515</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="641683000" />
+    <option name="totallyTimeSpent" value="641961000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -988,9 +1006,9 @@
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.32843137" />
-      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.49621785" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="5" sideWeight="0.49621785" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="6" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.44517186" visible="true" weight="0.27382752" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.44517186" visible="true" weight="0.27382752" />
       <window_info id="Web" order="4" sideWeight="0.59574467" side_tool="true" weight="0.23600605" />
       <window_info anchor="bottom" id="Find" order="11" weight="0.3289689" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -1064,13 +1082,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/pwdUpdate.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="161" column="10" selection-start-line="161" selection-start-column="10" selection-end-line="161" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/finAdd.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2609">
@@ -1411,10 +1422,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crm/test/Test1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/crm/test/DepVos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+        <state relative-caret-position="168">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
