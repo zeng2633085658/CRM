@@ -7,10 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21384630-add6-4509-8b4e-5d7467054384" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/crm/vo/testVo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/crm/dao/zyp/BaseDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/crm/dao/zyp/BaseDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/crm/servlet/InfoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/crm/servlet/InfoServlet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,20 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DepVos.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DepVos.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/crm/test/DepVos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testVo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/crm/vo/testVo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="462">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -346,8 +334,8 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\work\CRM\web\js\jqmodules" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.crm" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\work\CRM\src\com\crm\dao\zyl" />
@@ -355,6 +343,12 @@
       <recent name="E:\work\CRM\web" />
       <recent name="E:\work\CRM\web\WEB-INF" />
       <recent name="E:\work\CRM\web\css" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\work\CRM\web\js\jqmodules" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -894,7 +888,7 @@
       <workItem from="1526387001848" duration="781000" />
       <workItem from="1526629652964" duration="1513000" />
       <workItem from="1526631828505" duration="28000" />
-      <workItem from="1526631877177" duration="2607000" />
+      <workItem from="1526631877177" duration="2868000" />
     </task>
     <task id="LOCAL-00001" summary="idea整合测试git">
       <created>1526633285352</created>
@@ -924,11 +918,25 @@
       <option name="project" value="LOCAL" />
       <updated>1526641620916</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="idea整合测试git">
+      <created>1526641849851</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526641849851</updated>
+    </task>
+    <task id="LOCAL-00006" summary="idea整合测试git">
+      <created>1526641948132</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1526641948132</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="640775000" />
+    <option name="totallyTimeSpent" value="641036000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -941,7 +949,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50378215" side_tool="true" weight="0.3289689" />
@@ -957,6 +964,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="15" sideWeight="0.49394855" weight="0.66993463" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32405892" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
@@ -976,7 +984,6 @@
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.32026145" />
       <window_info anchor="right" id="Properties" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="12" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="1" weight="0.32428116" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="14" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="right" id="Commander" order="10" weight="0.4" />
@@ -1302,13 +1309,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crm/dao/zyp/BaseDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2807">
-          <caret line="809" column="52" selection-start-line="809" selection-start-column="12" selection-end-line="809" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/crm/db/DBConn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
@@ -1379,17 +1379,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crm/test/DepVos.java">
+    <entry file="file://$PROJECT_DIR$/src/com/crm/dao/zyp/BaseDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="21">
+          <caret line="809" column="28" lean-forward="true" selection-start-line="809" selection-start-column="12" selection-end-line="809" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/crm/vo/testVo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crm/test/DepVos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
