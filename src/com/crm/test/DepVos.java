@@ -24,6 +24,7 @@ public class DepVos {
 
     public static void main(String[] args) {
         System.out.println(AesUtils.encryptStr("123456",AesUtils.SECRETKEY));
+        System.out.println();
     }
 
 }
