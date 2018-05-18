@@ -1,10 +1,7 @@
 package com.crm.servlet;
 
-import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 import com.crm.dao.zyp.BaseDAO;
-import com.crm.test.DepVos;
-import com.crm.vo.DepVo;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -13,7 +10,6 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.List;
-import java.util.Map;
 
 public class InfoServlet extends HttpServlet {
     BaseDAO base=new BaseDAO();
