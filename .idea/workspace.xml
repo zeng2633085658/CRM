@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21384630-add6-4509-8b4e-5d7467054384" name="Default" comment="">
+    <list default="true" id="21384630-add6-4509-8b4e-5d7467054384" name="Default" comment="idea整合测试git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,11 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="proListCount.jsp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="proListCount.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/proListCount.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="777">
-              <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+            <state relative-caret-position="449">
+              <caret line="150" column="44" selection-start-line="150" selection-start-column="39" selection-end-line="150" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -69,19 +69,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="546">
               <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DepVos.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/crm/test/DepVos.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -253,10 +240,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="369" />
-    <option name="y" value="-11" />
-    <option name="width" value="782" />
-    <option name="height" value="564" />
+    <option name="x" value="73" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="756" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -279,8 +266,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -311,6 +296,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,10 +332,10 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="vcs.Perforce" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -907,7 +894,10 @@
       <workItem from="1526631828505" duration="28000" />
       <workItem from="1526631877177" duration="4249000" />
       <workItem from="1526973069079" duration="1204000" />
-      <workItem from="1526987589590" duration="185000" />
+      <workItem from="1526987589590" duration="2074000" />
+      <workItem from="1526989887767" duration="4064000" />
+      <workItem from="1527733323697" duration="2271000" />
+      <workItem from="1527765774427" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="idea整合测试git">
       <created>1526633285352</created>
@@ -993,11 +983,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526643119715</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="idea整合测试git">
+      <created>1526987818611</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1526987818611</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="643621000" />
+    <option name="totallyTimeSpent" value="652081000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1009,7 +1006,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50378215" side_tool="true" weight="0.3289689" />
@@ -1032,7 +1030,7 @@
       <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.49621785" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.32843137" />
       <window_info anchor="bottom" id="Terminal" order="6" weight="0.3289689" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.44517186" visible="true" weight="0.28668684" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.44517186" visible="true" weight="0.30030257" />
       <window_info id="Web" order="4" sideWeight="0.59574467" side_tool="true" weight="0.23600605" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="5" sideWeight="0.55482817" side_tool="true" weight="0.27382752" />
@@ -1356,13 +1354,6 @@
         <state relative-caret-position="-504" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/proListCount.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/crm/servlet/UsersServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1432,12 +1423,15 @@
     <entry file="file://$PROJECT_DIR$/src/com/crm/vo/testVo.java" />
     <entry file="file://$PROJECT_DIR$/src/com/crm/test/DepVos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="378">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/proListCount.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="150" column="44" selection-start-line="150" selection-start-column="39" selection-end-line="150" selection-end-column="44" />
         </state>
       </provider>
     </entry>
