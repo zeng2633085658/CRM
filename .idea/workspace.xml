@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21384630-add6-4509-8b4e-5d7467054384" name="Default" comment="idea整合测试git">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="21384630-add6-4509-8b4e-5d7467054384" name="Default" comment="idea整合测试git" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,8 +47,8 @@
       <file leaf-file-name="proListCount.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/proListCount.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="150" column="44" selection-start-line="150" selection-start-column="39" selection-end-line="150" selection-end-column="44" />
+            <state relative-caret-position="71">
+              <caret line="136" column="22" lean-forward="true" selection-start-line="136" selection-start-column="22" selection-end-line="136" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -58,7 +56,7 @@
       <file leaf-file-name="userAdd.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/userAdd.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6552">
+            <state relative-caret-position="8424">
               <caret line="312" column="53" selection-start-line="312" selection-start-column="47" selection-end-line="312" selection-end-column="53" />
             </state>
           </provider>
@@ -67,7 +65,7 @@
       <file leaf-file-name="UploadServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/crm/servlet/UploadServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
+            <state relative-caret-position="702">
               <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
             </state>
           </provider>
@@ -127,38 +125,38 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/CustomerInfoServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/LoginServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/SupplierServlet.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/PaidTypeServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/TicketServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/CodeServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/BusinessServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/UnitServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/JobRecordServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/ContractAttachServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/OrdersServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/listener/SessionListenerDemo.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/listener/ApplicationListenerDemo.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/listener/RequestListenerDemo.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/vo/UsersVo.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/vo/DepVo.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/vo/ContractVo.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/vo/DegreesVo.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/dao/zyp/BaseDAO.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/web/WEB-INF/web.xml" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/common/ExportExcel.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/WeeklyReportServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/OrdersCountServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/UsersServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/ContactServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/FinanceServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/JobCountServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/OrderDetailServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/ContractServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/DegreesServlet.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/ProductServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/SupplierServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/LoginServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/CustomerInfoServlet.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/DepServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/ProductServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/DegreesServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/ContractServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/OrderDetailServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/JobCountServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/FinanceServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/ContactServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/UsersServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/OrdersCountServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/WeeklyReportServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/common/ExportExcel.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/dao/zyp/BaseDAO.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/vo/DegreesVo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/vo/ContractVo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/vo/DepVo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/vo/UsersVo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/listener/RequestListenerDemo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/listener/ApplicationListenerDemo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/listener/SessionListenerDemo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/OrdersServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/ContractAttachServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/JobRecordServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/UnitServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/BusinessServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/CodeServlet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/web/WEB-INF/web.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/crm/servlet/TicketServlet.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -266,6 +264,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -277,27 +276,26 @@
             <path>
               <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
               <item name="CRM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
               <item name="CRM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crm" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
               <item name="CRM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crm" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -898,6 +896,7 @@
       <workItem from="1526989887767" duration="4064000" />
       <workItem from="1527733323697" duration="2271000" />
       <workItem from="1527765774427" duration="51000" />
+      <workItem from="1528112063111" duration="146000" />
     </task>
     <task id="LOCAL-00001" summary="idea整合测试git">
       <created>1526633285352</created>
@@ -994,7 +993,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="652081000" />
+    <option name="totallyTimeSpent" value="652227000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1006,8 +1005,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50378215" side_tool="true" weight="0.3289689" />
@@ -1027,10 +1025,10 @@
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.49621785" weight="0.3289689" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.49621785" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="6" weight="0.3289689" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.44517186" visible="true" weight="0.30030257" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.44517186" visible="true" weight="0.30484116" />
       <window_info id="Web" order="4" sideWeight="0.59574467" side_tool="true" weight="0.23600605" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="5" sideWeight="0.55482817" side_tool="true" weight="0.27382752" />
@@ -1038,8 +1036,8 @@
       <window_info id="Nl-Palette" order="6" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
-      <window_info anchor="right" id="Properties" order="2" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.32026145" />
+      <window_info anchor="right" id="Properties" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.32405892" />
       <window_info anchor="bottom" id="Find" order="11" weight="0.3289689" />
@@ -1257,13 +1255,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5e0dcd68-9bfa-437e-b2bc-630124d2688d/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5e0dcd68-9bfa-437e-b2bc-630124d2688d/console.sql" />
     <entry file="das://5c10e881-43fe-4b71-873c-570524027e4c/schema/mysql/table/db">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -1302,13 +1294,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5c10e881-43fe-4b71-873c-570524027e4c/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5c10e881-43fe-4b71-873c-570524027e4c/console.sql" />
     <entry file="file://$PROJECT_DIR$/src/com/crm/servlet/ComeServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-297">
@@ -1391,7 +1377,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/userAdd.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6552">
+        <state relative-caret-position="8424">
           <caret line="312" column="53" selection-start-line="312" selection-start-column="47" selection-end-line="312" selection-end-column="53" />
         </state>
       </provider>
@@ -1406,7 +1392,7 @@
     <entry file="file://$PROJECT_DIR$/src/TEST.java" />
     <entry file="file://$PROJECT_DIR$/src/com/crm/servlet/UploadServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
+        <state relative-caret-position="702">
           <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
         </state>
       </provider>
@@ -1430,8 +1416,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/proListCount.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="150" column="44" selection-start-line="150" selection-start-column="39" selection-end-line="150" selection-end-column="44" />
+        <state relative-caret-position="71">
+          <caret line="136" column="22" lean-forward="true" selection-start-line="136" selection-start-column="22" selection-end-line="136" selection-end-column="22" />
         </state>
       </provider>
     </entry>
